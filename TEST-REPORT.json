@@ -1,0 +1,13 @@
+{
+ "checked": [
+  "node --check app.js",
+  "logic formulas",
+  "translation key completeness for 20 languages"
+ ],
+ "not_tested": [
+  "real browser",
+  "phone",
+  "offline install",
+  "fluent-speaker review"
+ ]
+}
